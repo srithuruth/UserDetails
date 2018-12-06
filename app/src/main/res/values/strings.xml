@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserDetails</string>
+    <string name="First_Name">First Name</string>
+    <string name="Middle_Name">Middle Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="do_NEXT">DO NEXT</string>
+
+</resources>
